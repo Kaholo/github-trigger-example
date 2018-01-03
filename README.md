@@ -1,1 +1,1 @@
-# github-trigger-example   
+# github-trigger-example
